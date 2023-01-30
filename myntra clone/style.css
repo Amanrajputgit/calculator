@@ -1,0 +1,60 @@
+html, body{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+.left img{
+    width: 32px;
+    height: 22px;
+
+}
+header{
+    position: sticky;
+    top: 0;
+    background: white;
+    height: 66px;
+    box-shadow: rgba(0,0,0,0.15) 1.95px 1.95px 2.6px;
+}
+.container{
+margin-right: 10px;
+    padding:  0px 10px;
+}
+nav{
+    font-size: 12px;
+padding-top: 14px;
+}
+nav ul li{
+    list-style: none;
+    margin: 0 11px;
+
+}
+input{
+    height: 15px;
+}
+.uppercase{
+    text-transform: uppercase;
+}
+.semibold{
+    font-weight: 600;
+}
+.section1{
+    background: rgb(233, 227, 227);
+    height: 122vh;
+
+}
+.search{
+    width: 24vw;
+    /* padding: 7px 17px; */
+    padding-left: 10px;
+    border: 0.5px solid grey;
+    background: rgb(255, 255, 255);
+    border-radius: 5px;
+    font-size: 10px;
+}
+.homeimg{
+    height: 12vw;
+    width: 1263px;
+    margin: 12px 0;
+
+}
